@@ -23,6 +23,6 @@ python3 image_test "image name"
 ```
 
 ## Requirements
-Python 3.6.5 
-Keras : 2.2.0
-Tensorflow : 1.9.0
+- Python 3.6.5 
+- Keras : 2.2.0
+- Tensorflow : 1.9.0
