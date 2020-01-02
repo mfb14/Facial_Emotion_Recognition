@@ -1,7 +1,7 @@
 # Facial Expression Recognition
 Detects Face using Haarcascades and further detects emotion in bounded face (trained a CNN emotion detector model)
 
-DATASET
+## DATASET
 Download dataset in this link
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
